@@ -1,0 +1,6 @@
+#I was able to play the game that was requested. At the beginning it was hard for me, then I understood a little bit. 
+When I had to use git it was a bit complicated because when I typed git init directly from cmd in Windows, it didn't recognize 
+the command. I was looking for ways to do it and I saw that downloading github desktop I could do it in another way, I hope it 
+is the same. From there for the moment, I was able to do what was required, I cloned the file, created a note, modified it and 
+uploaded it to the web page without problems. I learned a bit about branch main, how it works and to recognize the new changes 
+on the file. 
