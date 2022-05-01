@@ -1,6 +1,6 @@
 '''
 Tic Tac Toe Proyect
-By: Tomas lopez 
+By: Tomás lópez 
 '''
 
  
